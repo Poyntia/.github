@@ -13,6 +13,7 @@ Los agentes se conectan a las herramientas del cliente (simulación, cálculo, C
 - Pedir una demo: <https://poyntia.com/demo/>
 - Contacto: info@poyntia.com
 - LinkedIn: <https://www.linkedin.com/company/poyntia>
+- YouTube: <https://www.youtube.com/@poyntia>
 
 ## In English
 
